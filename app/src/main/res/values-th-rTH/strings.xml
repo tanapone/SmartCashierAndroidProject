@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartCashier</string>
+    <string name="menu_cashier">แคชเชียร์</string>
+    <string name="menu_addProduct">เพิ่มสินค้า</string>
+    <string name="menu_searchProduct">ค้นหาสินค้า</string>
+    <string name="menu_dashboard">ผลการขาย</string>
+    <string name="menu_logout">ออกจากระบบ</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
