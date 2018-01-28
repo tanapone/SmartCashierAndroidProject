@@ -6,6 +6,8 @@
     <string name="menu_searchProduct">Search prodcut</string>
     <string name="menu_dashboard">Dashboard</string>
     <string name="menu_logout">Sign out</string>
+    <string name="item">Items</string>
+    <string name="scanBtn">Sacn barcode</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
 </resources>

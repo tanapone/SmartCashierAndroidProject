@@ -6,6 +6,8 @@
     <string name="menu_searchProduct">ค้นหาสินค้า</string>
     <string name="menu_dashboard">ผลการขาย</string>
     <string name="menu_logout">ออกจากระบบ</string>
+    <string name="item">รายการ สินค้า</string>
+    <string name="scanBtn">แสกน บาร์โคด</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
 </resources>
