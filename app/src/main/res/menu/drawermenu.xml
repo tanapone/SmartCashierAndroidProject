@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-<item android:id="@+id/cashierMenu" android:title="@string/menu_cashier" android:icon="@drawable/ic_store_black_24dp"/>
+<item android:id="@+id/cashierMenu" android:title="@string/menu_cashier" android:icon="@drawable/ic_cashier"/>
 <item android:id="@+id/addProductMenu" android:title="@string/menu_addProduct" android:icon="@drawable/ic_add_box_black_24dp"/>
 <item android:id="@+id/searchProductMenu" android:title="@string/menu_searchProduct" android:icon="@drawable/ic_search_black_24dp"/>
-<item android:id="@+id/dashboardMenu" android:title="@string/menu_dashboard" android:icon="@drawable/ic_dashboard_black_24dp"/>
+<item android:id="@+id/dashboardMenu" android:title="@string/menu_dashboard" android:icon="@drawable/ic_pie_chart_for_business_stats"/>
+<item android:id="@+id/settingMenu" android:title="@string/menu_setting" android:icon="@drawable/ic_cogwheels"/>
 <item android:id="@+id/signoutMenu" android:title="@string/menu_logout" android:icon="@drawable/ic_logout"/>
 
 </menu>

@@ -1,6 +1,7 @@
 package com.example.tanapone.smartcashier;
 
 import java.util.ArrayList;
+import java.util.Vector;
 
 /**
  * Created by Tanapone on 28/1/2561.
@@ -11,13 +12,13 @@ public class Store {
     private String password;
     private String email;
     private String storename;
-    private ArrayList<Product> products = new ArrayList<Product>();
+    private Vector<Product> products = new Vector<Product>();
 
-    public ArrayList<Product> getProducts() {
+    public Vector<Product> getProducts() {
         return products;
     }
 
-    public void setProducts(ArrayList<Product> products) {
+    public void setProducts(Vector<Product> products) {
         this.products = products;
     }
 

@@ -2,6 +2,7 @@ package com.example.tanapone.smartcashier;
 
 import java.util.ArrayList;
 import java.util.Date;
+import java.util.Vector;
 
 /**
  * Created by Tanapone on 28/1/2561.
@@ -11,7 +12,7 @@ public class Order {
     private String orderID;
     private Date orderDate;
     private Store store;
-    private ArrayList<Product> orderProducts = new ArrayList<Product>();
+    private Vector<Product> orderProducts = new Vector<Product>();
 
     public String getOrderID() {
         return orderID;
@@ -37,11 +38,11 @@ public class Order {
         this.store = store;
     }
 
-    public ArrayList<Product> getOrderProducts() {
+    public Vector<Product> getOrderProducts() {
         return orderProducts;
     }
 
-    public void setOrderProducts(ArrayList<Product> orderProducts) {
+    public void setOrderProducts(Vector<Product> orderProducts) {
         this.orderProducts = orderProducts;
     }
 }

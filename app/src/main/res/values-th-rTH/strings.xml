@@ -5,9 +5,13 @@
     <string name="menu_addProduct">เพิ่มสินค้า</string>
     <string name="menu_searchProduct">ค้นหาสินค้า</string>
     <string name="menu_dashboard">ผลการขาย</string>
+    <string name="menu_setting">ตั้งค่าร้าน</string>
     <string name="menu_logout">ออกจากระบบ</string>
     <string name="item">รายการ สินค้า</string>
     <string name="scanBtn">แสกน บาร์โคด</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
+    <string name="item_header_barcode">บาร์โคด</string>
+    <string name="item_header_name">ชื่อสินค้า</string>
+    <string name="item_header_qty">จำนวนสินค้า</string>
 </resources>
