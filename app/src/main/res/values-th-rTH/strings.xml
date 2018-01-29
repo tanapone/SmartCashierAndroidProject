@@ -11,7 +11,10 @@
     <string name="scanBtn">แสกน บาร์โคด</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
-    <string name="item_header_barcode">บาร์โคด</string>
+    <string name="item_header_barcode">รหัสสินค้า</string>
     <string name="item_header_name">ชื่อสินค้า</string>
     <string name="item_header_qty">จำนวนสินค้า</string>
+    <string name="set_quantity_dialog_editText_hint">กรอกจำนวนสินค้า</string>
+    <string name="set_quantity_dialog_title">จำนวนสินค้า</string>
+    <string name="set_quantity_dialog_submitBtn">ตกลง</string>
 </resources>

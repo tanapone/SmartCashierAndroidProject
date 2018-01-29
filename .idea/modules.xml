@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SmartCashier.iml" filepath="$PROJECT_DIR$/SmartCashier.iml" />
+      <module fileurl="file://C:\AndroidStudioProjects\SmartCashierAndroidProject\SmartCashier.iml" filepath="C:\AndroidStudioProjects\SmartCashierAndroidProject\SmartCashier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmartCashierAndroidProject.iml" filepath="$PROJECT_DIR$/SmartCashierAndroidProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

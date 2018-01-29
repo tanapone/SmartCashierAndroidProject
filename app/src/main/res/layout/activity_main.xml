@@ -45,16 +45,27 @@
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/listItem"
                     android:orientation="vertical"
-                    android:padding="10dp"
+                    android:padding="5dp"
                     android:textAlignment="center">
+                    <TableLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/listItem"
+                        android:stretchColumns="*">
+
+                    </TableLayout>
                 </LinearLayout>
-                <Button
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="@string/scanBtn"
-                    android:id="@+id/scanBtn"/>
+
+                <ImageView
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:src="@drawable/ic_barcode"
+                    android:id="@+id/scanBtn"
+                    android:layout_gravity="right"
+                    android:layout_margin="20dp"
+                    />
+
             </LinearLayout>
         </ScrollView>
 

@@ -11,7 +11,11 @@
     <string name="scanBtn">Sacn barcode</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
-    <string name="item_header_barcode">Barcode</string>
+    <string name="item_header_barcode">Item ID</string>
     <string name="item_header_name">Name</string>
     <string name="item_header_qty">Quantity</string>
+    <string name="set_quantity_dialog_editText_hint">Type quantity</string>
+    <string name="set_quantity_dialog_title">Quantity</string>
+    <string name="set_quantity_dialog_submitBtn">Submit</string>
+
 </resources>
