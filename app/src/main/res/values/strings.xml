@@ -6,6 +6,7 @@
     <string name="menu_searchProduct">Search prodcut</string>
     <string name="menu_dashboard">Dashboard</string>
     <string name="menu_setting">Setting</string>
+    <string name="menu_printer_setting">Printer Setting</string>
     <string name="menu_logout">Sign out</string>
     <string name="item">Items</string>
     <string name="scanBtn">Sacn barcode</string>
@@ -17,5 +18,10 @@
     <string name="set_quantity_dialog_editText_hint">Type quantity</string>
     <string name="set_quantity_dialog_title">Quantity</string>
     <string name="set_quantity_dialog_submitBtn">Submit</string>
-
+    <string name="no_bluetooth_found">No bluetooth adapter available</string>
+    <string name="enable_bluetooth_adapter">Please enable bluetooth adapter</string>
+    <string name="bluetooth_dialog_title">Select bluetooth printer device</string>
+    <string name="bluetooth_dialog_device">  bluetooth device</string>
+    <string name="bluetooth_dialog_warning">Please connect bluetooth device before select.</string>
+    <string name="bluetooth_toast_connected">Printer connected</string>
 </resources>

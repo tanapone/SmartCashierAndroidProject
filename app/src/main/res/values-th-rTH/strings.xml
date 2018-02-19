@@ -6,6 +6,7 @@
     <string name="menu_searchProduct">ค้นหาสินค้า</string>
     <string name="menu_dashboard">ผลการขาย</string>
     <string name="menu_setting">ตั้งค่าร้าน</string>
+    <string name="menu_printer_setting">ตั้งค่าปริ้นเตอร์</string>
     <string name="menu_logout">ออกจากระบบ</string>
     <string name="item">รายการ สินค้า</string>
     <string name="scanBtn">แสกน บาร์โคด</string>
@@ -17,4 +18,10 @@
     <string name="set_quantity_dialog_editText_hint">กรอกจำนวนสินค้า</string>
     <string name="set_quantity_dialog_title">จำนวนสินค้า</string>
     <string name="set_quantity_dialog_submitBtn">ตกลง</string>
+    <string name="no_bluetooth_found">ไม่พบอุปกรณ์ บลูธูทใดๆ</string>
+    <string name="enable_bluetooth_adapter">กรุณาเปิดบลูธูท</string>
+    <string name="bluetooth_dialog_title">กรุณาเลือกอุปกรณ์ บลูธูท</string>
+    <string name="bluetooth_dialog_device">  รายชื่อ อุปกรณ์</string>
+    <string name="bluetooth_dialog_warning">กรุณาเชื่อมต่ออุปกรณ์บลูธูทก่อน ทำการเลือก</string>
+    <string name="bluetooth_toast_connected">เชื่อมต่อ เครื่องปริ้นแล้ว</string>
 </resources>
